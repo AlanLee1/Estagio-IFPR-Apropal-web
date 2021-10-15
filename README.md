@@ -1,7 +1,10 @@
-# Estagio-IFPR-Apropal-web
- Estágio IFPR - Apropal Módulo web
+# Estágio IFPR - Apropal Módulo Web
 
 ## Introdução
+
+O principal objetivo do Estágio Supervisionado realizado pelos acadêmicos Alexis D. Kang e Alan de O. Lee foi implementar um sistema pelo qual eles consigam ter o controle do cultivo para a empresa APROPAL.
+
+Para a criação do protótipo, a plataforma selecionada para o desenvolvimento é a aplicação web para implementar o escopo principal do projeto, como o registro das atividades realizadas durante o plantio, o cadastro de produtores e técnicos, a geração de relatórios e as informações exibidas em um formato de dashboard. Além de ser integrado com o banco de dados em nuvem, compartilhando as informações para ser acesso em uma aplicação mobile.
 
 ## Materiais
 
@@ -53,7 +56,7 @@ Ferramentas para o desenvolvimento do módulo mobile:<br>
     <img src="https://images2.imgbox.com/cd/04/pWQcDslz_o.png" alt="AndroidStudio" width="90"/>
     <img src="https://images2.imgbox.com/98/d8/j9j6mHsc_o.png" alt="Firebase Realtime Database" width="70"/>
 </p>
-<br>
+
 ## Metodologia
 
 Para a realização do projeto foi optado pela metodologia de gerenciamento de projetos framework de manifesto ágil Scrum, o Scrum é um Framework para desenvolver e manter produtos complexos que se baseia numa abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o controle de riscos (SCHWABER; SUTHERLAND, 2017).
